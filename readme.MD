@@ -1,0 +1,1 @@
+Este es un Hola Mundo creado con Django para mostrar la estructura básica.
